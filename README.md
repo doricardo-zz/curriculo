@@ -6,9 +6,10 @@ Currículo profissional
 
 Local: Rio de Janeiro - Rio de Janeiro | Idade: 43 anos
 
-Sou desenvolvedor web a mais de 8 anos, Apple maníaco e trabalho sempre escutando uma boa música. Gosto muito do que faço
-e não me vejo fazendo outra coisa que não esteja relacionado com a internet. Nas horas vagas gosto de navegar na internet 
-para me manter atualizado nas novas tecnologias e tendências. Sou programador mas trabalho um pouco com design e "*user experience*".
+Dezoito anos de experiência em desenvolvimento de sistemas ORACLE, sólidos conhecimentos em banco de
+dados ORACLE, ferramentas ORACLE Developer Tools, construção de queries SQL, programação PL/SQL,
+Desenvolvimento de Packages, Procedures, Functions e Triggers, análise estruturada, administração do
+banco de dados e modelagem de dados;
 
 Autodidata, sempre aprendendo novas tecnologias e trocando informações no trabalho em equipe;
 
