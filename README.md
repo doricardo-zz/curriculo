@@ -23,6 +23,7 @@ github: [https://github.com/doricardo](https://github.com/doricardo "pessoal")
 
 * PL/SQL, SQL (19 anos)
 * PHP, Wordpress (4 anos)
+* Python, NumPy e Matplotlib (https://confirm.udacity.com/D6XESTVG) 
 * C#, .Net (4 anos)
 * Javascript, HTML e CSS (10 anos)
 * Sistemas de controle de versão (git, svn)
@@ -62,7 +63,7 @@ github: [https://github.com/doricardo](https://github.com/doricardo "pessoal")
 
 * Graduado em Ciências da Computação pela Universidade Castelo Branco do Rio de Janeiro
 * MBA Gerenciamento de Projetos - PMI (Project Management Institute), FIAP de São Paulo
-* Fundamentos Análise de Dados Python, NumPy, Matplotlib (https://confirm.udacity.com/D6XESTVG) 
+* Fundamentos Análise de Dados Udacity
  
 
 --- 
