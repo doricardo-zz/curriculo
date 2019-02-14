@@ -26,6 +26,7 @@ github: [https://github.com/doricardo](https://github.com/doricardo "pessoal")
 * Python, NumPy e Matplotlib (https://confirm.udacity.com/D6XESTVG) 
 * C#, .Net (4 anos)
 * Javascript, HTML e CSS (10 anos)
+* Oracle Forms, Reports (19 anos)
 * Sistemas de controle de versão (git, svn)
 * Inglês avançado
 
