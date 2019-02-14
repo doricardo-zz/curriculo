@@ -1,10 +1,10 @@
 # curriculo
 Currículo profissional
-# Danillo César de O. Melo (currículo)
+# Ricardo Alexandre Coelho de Andade (currículo)
 
 <img src="https://www.dropbox.com/s/540mpu4hj4jrwev/Profile.jpg?dl=0" />
 
-Local: Maceió - Alagoas | Idade: 25 anos
+Local: Rio de Janeiro - Rio de Janeiro | Idade: 43 anos
 
 Sou desenvolvedor web a mais de 8 anos, Apple maníaco e trabalho sempre escutando uma boa música. Gosto muito do que faço
 e não me vejo fazendo outra coisa que não esteja relacionado com a internet. Nas horas vagas gosto de navegar na internet 
