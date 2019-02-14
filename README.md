@@ -37,7 +37,7 @@ github: [https://github.com/doricardo](https://github.com/doricardo "pessoal")
 
 * DELPHOS SERVIÇOS TÉCNICOS - RIO DE JANEIRO / SÃO PAULO  - 1995 até 2008
 
-## Projetos
+## Projetos Pessoais
 
 * **Trisport Magazine** (wordpress) ([link](http://trisportmag.com.br))  
  
