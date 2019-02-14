@@ -39,8 +39,22 @@ github: [https://github.com/doricardo](https://github.com/doricardo "pessoal")
 
 ## Projetos
 
-* 
+* **Trisport Magazine** (php) ([link](http://trisportmag.com.br))  
+ 
+   Revista digital especializada em produzir histórias e conteúdos autênticos no mundo do esporte de endurance.
 
+* **Kahuna Training Camp** (php) ([link](http://kahunacamps.com))  
+ 
+   Site especializado em promover períodos de treinamentos para atletas amadores e profissionais no mundo do triathlon e ciclismo.
+   
+* **Centro de Treinamento Endurance ** (php) ([link](http://ctendurance.com.br))  
+ 
+   Site da assessoria esportiva de triathlon e ciclismo localizada no Rio de Janeiro
+   
+* **Golonger Shop ** (php) ([link](http://ctendurance.com.br))  
+ 
+   E-Commerce para vendas de produtos para atletas de triathlon
+   
 ## Formação
 
 * Graduado em Ciências da Computação pela Universidade Castelo Branco do Rio de Janeiro
