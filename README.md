@@ -51,7 +51,7 @@ github: [https://github.com/doricardo](https://github.com/doricardo "pessoal")
  
    Site da assessoria esportiva de triathlon e ciclismo localizada no Rio de Janeiro
    
-* **Golonger Shop ** (php) ([link](http://ctendurance.com.br))  
+* **Golonger Shop ** (php) ([link](https://golonger.com.br/shop/))  
  
    E-Commerce para vendas de produtos para atletas de triathlon
    
