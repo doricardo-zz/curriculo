@@ -55,7 +55,7 @@ github: [https://github.com/doricardo](https://github.com/doricardo "pessoal")
  
    Planilha de treinamento para atletas amadores da assessoria esportiva 
    
-* **Golonger Shop** (wordpress) ([link](https://golonger.com.br/shop/))  
+* **Golonger Shop** (woocommerce) ([link](https://golonger.com.br/shop/))  
  
    E-Commerce para vendas de produtos para atletas de triathlon
    
