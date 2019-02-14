@@ -23,14 +23,19 @@ github: [https://github.com/doricardo](https://github.com/doricardo "pessoal")
 ## Conhecimentos
 
 * PL/SQL, SQL (19 anos)
-* PHP (3 anos)
+* PHP, Wordpress (4 anos)
+* C#, .Net (4 anos)
 * Javascript, HTML e CSS (10 anos)
 * Sistemas de controle de versão (git, svn)
 * Inglês avançado
 
 ## Experiência Profissional
 
-* 
+* H.STERN – RIO DE JANEIRO - 2009 até o momento
+
+* MEMVAVMEM CONSULTORIA - RIO DE JANEIRO - 2007 até 2009
+
+* DELPHOS SERVIÇOS TÉCNICOS - RIO DE JANEIRO / SÃO PAULO  - 1995 até 2008
 
 ## Projetos
 
