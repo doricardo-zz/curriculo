@@ -22,19 +22,17 @@ github: [https://github.com/doricardo](https://github.com/doricardo "pessoal")
 
 ## Conhecimentos
 
+* PL/SQL, SQL (19 anos)
 * PHP (3 anos)
-* Javascript (5 anos)
-* HTML e CSS (LESS)
+* Javascript, HMTML c CSS (5 anos)
 * Sistemas de controle de versão (git, svn)
-* Inglês avançado.
+* Inglês avançado
+
+## Experiência Profissional
+
+* 
 
 ## Projetos
-
-### Open Sources
-
-### Proprietários
-
-## Outros
 
 * 
 
