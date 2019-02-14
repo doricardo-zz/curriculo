@@ -2,7 +2,7 @@
 Currículo profissional
 # Ricardo Alexandre Coelho de Andade (currículo)
 
-<img src="https://s.gravatar.com/avatar/0d4904efa200268f1589e5f5205b4ebb?s=80" />
+<img src="https://s.gravatar.com/avatar/0d4904efa200268f1589e5f5205b4ebb" />
 
 Local: Rio de Janeiro - Rio de Janeiro | Idade: 43 anos
 
