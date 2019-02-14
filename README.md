@@ -11,12 +11,11 @@ dados ORACLE, ferramentas ORACLE Developer Tools, construção de queries SQL, p
 Desenvolvimento de Packages, Procedures, Functions e Triggers, análise estruturada, administração do
 banco de dados e modelagem de dados;
 
-Autodidata, sempre aprendendo novas tecnologias e trocando informações no trabalho em equipe;
-
 Habilidade em apresentações para aquisição de novos clientes e treinamento de usuários em sistemas de
 informação, Sólidos conhecimentos sistemas do mercado segurador, Conhecimentos das melhores práticas
 em gestão de projetos do PMI (Project Management Institute);
 
+Autodidata, sempre aprendendo novas tecnologias e trocando informações no trabalho em equipe;
 
 github: [https://github.com/doricardo](https://github.com/doricardo "pessoal")
 
