@@ -1,6 +1,6 @@
 # curriculo
 Currículo profissional
-# Ricardo Alexandre Coelho de Andade (currículo)
+# Ricardo Andade (currículo)
 
 <img src="https://s.gravatar.com/avatar/0d4904efa200268f1589e5f5205b4ebb" />
 
